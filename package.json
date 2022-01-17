@@ -1,6 +1,6 @@
 {
   "name": "gitsite",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -10,8 +10,15 @@
   "scripts": {
     "deploy": "gh-pages -d site"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efratkde/kdesoftware.git"
+  },
   "author": "",
   "license": "ISC",
-  "homepage": "https://efratkde.github.io/kdesoftware"
+"homepage": "https://efratkde.github.io/kdesoftware",
+  "bugs": {
+    "url": "https://github.com/efratkde/kdesoftware/issues"
+  },
+  "homepage": "https://github.com/efratkde/kdesoftware#readme"
 }
