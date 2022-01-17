@@ -1,6 +1,6 @@
 {
-  "name": "gitSite",
-  "version": "1.0.0",
+  "name": "gitsite",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -8,10 +8,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages d site"
+    "deploy": "gh-pages -d site"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-   "homepage" : "https://efratkde.github.io.kdesoftware"
+  "homepage": "https://efratkde.github.io/kdesoftware"
 }
